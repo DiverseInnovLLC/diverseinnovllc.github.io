@@ -5,7 +5,7 @@ Static HTML/CSS/JavaScript site prepared for GitHub Pages.
 ## Local preview
 
 ```powershell
-cd diverseinnov.github.io
+cd diverseinnovllc.github.io
 python -m http.server 8080
 ```
 
@@ -13,16 +13,16 @@ Open `http://localhost:8080`.
 
 ## GitHub Pages
 
-Desired account or organization: `DiverseInnov`
-Desired repository: `diverseinnov.github.io`
-Expected public URL: `https://diverseinnov.github.io`
+Desired account or organization: `DiverseInnovLLC`
+Desired repository: `diverseinnovllc.github.io`
+Expected public URL: `https://diverseinnovllc.github.io`
 
 ```powershell
 git init
 git add .
 git commit -m "Initial Diverse Innov website"
 git branch -M main
-git remote add origin https://github.com/DiverseInnov/diverseinnov.github.io.git
+git remote add origin https://github.com/DiverseInnovLLC/diverseinnovllc.github.io.git
 git push -u origin main
 ```
 
@@ -46,7 +46,7 @@ When available, add a real founder image as `assets/images/founder.jpg` and inte
 
 ## Custom domain
 
-A custom domain is not required for launch. GitHub Pages can serve the site at `diverseinnov.github.io`. A future custom domain can be added in GitHub Pages settings without redesigning the site.
+A custom domain is not required for launch. GitHub Pages can serve the site at `diverseinnovllc.github.io`. A future custom domain can be added in GitHub Pages settings without redesigning the site.
 
 ## Service area
 
